@@ -1,0 +1,14 @@
+../src/Drivers/09-display_LCD/lcd.cpp:178:6:virtual void lcd::Write(const int8_t*)	16	static
+../src/Drivers/09-display_LCD/lcd.cpp:264:6:virtual void lcd::Clear()	8	static
+C:\Users\santi\Desktop\workspaceXD\proyecto\src/Drivers/09-display_LCD/lcd.h:75:11:lcd::~lcd()	8	static
+C:\Users\santi\Desktop\workspaceXD\proyecto\src/Drivers/09-display_LCD/lcd.h:75:11:virtual lcd::~lcd()	8	static
+C:\Users\santi\Desktop\workspaceXD\proyecto\src/Drivers/09-display_LCD/lcd.h:75:11:virtual void* lcd::_ZThn4_N3lcdD1Ev()	16	static
+C:\Users\santi\Desktop\workspaceXD\proyecto\src/Drivers/09-display_LCD/lcd.h:75:11:virtual void* lcd::_ZThn4_N3lcdD0Ev()	16	static
+../src/Drivers/09-display_LCD/lcd.cpp:40:1:lcd::lcd(std::vector<gpio*>&)	24	static
+../src/Drivers/09-display_LCD/lcd.cpp:52:6:void lcd::Inicializar(uint8_t, uint8_t)	24	static
+../src/Drivers/09-display_LCD/lcd.cpp:140:6:void lcd::WriteInstruction(uint8_t, uint8_t)	16	static
+../src/Drivers/09-display_LCD/lcd.cpp:77:6:virtual void lcd::SWhandler()	8	static
+../src/Drivers/09-display_LCD/lcd.cpp:166:6:lcd& lcd::operator=(const int8_t*)	8	static
+../src/Drivers/09-display_LCD/lcd.cpp:195:6:void lcd::Write(int32_t)	48	static
+../src/Drivers/09-display_LCD/lcd.cpp:233:6:void lcd::WriteAt(const int8_t*, uint8_t, uint8_t)	16	static
+../src/Drivers/09-display_LCD/lcd.cpp:250:6:void lcd::WriteAt(int32_t, uint8_t, uint8_t)	16	static

@@ -1,0 +1,5 @@
+../src/Drivers/08-Display7Segmentos/10C-Display/digito.cpp:55:6:bool digito::Set(uint16_t)	16	static
+../src/Drivers/08-Display7Segmentos/10C-Display/digito.cpp:84:9:uint8_t digito::Get()	16	static
+../src/Drivers/08-Display7Segmentos/10C-Display/digito.cpp:89:6:void digito::Clr()	16	static
+../src/Drivers/08-Display7Segmentos/10C-Display/digito.cpp:96:1:digito::~digito()	16	static
+../src/Drivers/08-Display7Segmentos/10C-Display/digito.cpp:96:1:virtual digito::~digito()	16	static

@@ -1,0 +1,10 @@
+../src/Drivers/12-Puente_H/L298N.cpp:99:6:virtual void L298N::Girar(uint8_t)	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:148:1:L298N::~L298N()	0	static
+../src/Drivers/12-Puente_H/L298N.cpp:51:6:virtual void L298N::Inicializar()	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:71:6:virtual void L298N::GirarIzq()	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:84:6:virtual void L298N::GirarDer()	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:112:6:virtual void L298N::Frenar()	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:125:6:virtual void L298N::Avanzar()	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:140:6:virtual void L298N::Retroceder()	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:148:1:virtual L298N::~L298N()	8	static
+../src/Drivers/12-Puente_H/L298N.cpp:42:1:L298N::L298N(gpio*&, gpio*&, gpio*&, gpio*&)	8	static

@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fotos/fotos_pantalla_principal/abajo.png</file>
+        <file>fotos/fotos_pantalla_principal/arriba.png</file>
+        <file>fotos/fotos_pantalla_principal/aspiradora.png</file>
+        <file>fotos/fotos_pantalla_principal/aspiradoraAba.png</file>
+        <file>fotos/fotos_pantalla_principal/aspiradoraDer.png</file>
+        <file>fotos/fotos_pantalla_principal/AspiradoraIzq.png</file>
+        <file>fotos/fotos_pantalla_principal/derecha.png</file>
+        <file>fotos/fotos_pantalla_principal/descarga.png</file>
+        <file>fotos/fotos_pantalla_principal/estadistica.png</file>
+        <file>fotos/fotos_pantalla_principal/izq.png</file>
+        <file>fotos/fotos_pantalla_principal/reloj.png</file>
+        <file>fotos/fotos_pantalla_principal/aspiradora_desconectada.png</file>
+        <file>fotos/fotos_pantalla_principal/fondo_app.png</file>
+        <file>fotos/fotos_pantalla_principal/informacion.png</file>
+        <file>fotos/fotos_pantalla_principal/recargar.png</file>
+        <file>fotos/fotos_pantalla_principal/diskette.png</file>
+        <file>fotos/fotos_pantalla_principal/ajuste_dos.png</file>
+    </qresource>
+</RCC>

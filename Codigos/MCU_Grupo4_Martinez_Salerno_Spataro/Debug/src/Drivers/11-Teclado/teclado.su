@@ -1,0 +1,8 @@
+../src/Drivers/11-Teclado/teclado.cpp:51:1:teclado::~teclado()	8	static
+../src/Drivers/11-Teclado/teclado.cpp:51:1:virtual teclado::~teclado()	8	static
+../src/Drivers/11-Teclado/teclado.cpp:43:1:teclado::teclado(std::vector<gpio*>&, std::vector<gpio*>&)	16	static
+../src/Drivers/11-Teclado/teclado.cpp:60:9:uint8_t teclado::TecladoHW()	24	static
+../src/Drivers/11-Teclado/teclado.cpp:80:6:void teclado::TecladoSW(uint8_t)	16	static
+../src/Drivers/11-Teclado/teclado.cpp:53:6:virtual void teclado::SWhandler()	8	static
+../src/Drivers/11-Teclado/teclado.cpp:118:6:void teclado::Inicializar()	24	static
+../src/Drivers/11-Teclado/teclado.cpp:133:9:uint8_t teclado::Get()	0	static

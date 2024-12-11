@@ -1,0 +1,2 @@
+../src/Firmware/MRT_config.cpp:10:6:void MRT_Reset()	0	static
+../src/Firmware/MRT_config.cpp:15:6:void MRT_Inicializar(type_MRT::MRT_timer_channels, type_MRT::MRT_MODES)	12	static

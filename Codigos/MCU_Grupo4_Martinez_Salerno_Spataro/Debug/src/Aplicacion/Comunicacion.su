@@ -1,0 +1,18 @@
+../src/Aplicacion/Comunicacion.cpp:57:6:void Comunicacion::ByteInicio()	8	static
+../src/Aplicacion/Comunicacion.cpp:67:6:void Comunicacion::Letras()	8	static
+../src/Aplicacion/Comunicacion.cpp:48:1:Comunicacion::Comunicacion(uart*, std::vector<unsigned int>&)	16	static
+../src/Aplicacion/Comunicacion.cpp:137:6:void Comunicacion::SetBitInicio(int8_t&)	0	static
+../src/Aplicacion/Comunicacion.cpp:141:6:void Comunicacion::SetBitFin(int8_t&)	0	static
+../src/Aplicacion/Comunicacion.cpp:168:6:void Comunicacion::ActualizarTiempo()	24	static
+../src/Aplicacion/Comunicacion.cpp:183:6:void Comunicacion::EnviarPedidos()	24	static
+../src/Aplicacion/Comunicacion.cpp:202:6:void Comunicacion::Transmitir(char*)	8	static
+../src/Aplicacion/Comunicacion.cpp:206:6:void Comunicacion::Transmitir(char*, int32_t)	8	static
+../src/Aplicacion/Comunicacion.cpp:210:6:void Comunicacion::Toggle(uint8_t)	0	static
+../src/Aplicacion/Comunicacion.cpp:217:6:bool Comunicacion::IsNumber(uint8_t, uint8_t)	12	static
+d:\mcuxpresso\mcuxpressoide_11.5.1_7266\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.1.202201181444\tools\arm-none-eabi\include\c++\10.3.1\bits\vector.tcc:171:5:std::vector<_Tp, _Alloc>::iterator std::vector<_Tp, _Alloc>::_M_erase(std::vector<_Tp, _Alloc>::iterator) [with _Tp = unsigned int; _Alloc = std::allocator<unsigned int>]	16	static
+../src/Aplicacion/Comunicacion.cpp:156:6:void Comunicacion::AnalizarPedidos()	24	static
+../src/Aplicacion/Comunicacion.cpp:145:6:void Comunicacion::MaquinaDeEstados()	8	static
+d:\mcuxpresso\mcuxpressoide_11.5.1_7266\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.1.202201181444\tools\arm-none-eabi\include\c++\10.3.1\bits\vector.tcc:426:7:) [with _Args = {unsigned int}; _Tp = unsigned int; _Alloc = std::allocator<unsigned int>]	40	static
+d:\mcuxpresso\mcuxpressoide_11.5.1_7266\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.1.202201181444\tools\arm-none-eabi\include\c++\10.3.1\bits\vector.tcc:109:7:) [with _Args = {unsigned int}; _Tp = unsigned int; _Alloc = std::allocator<unsigned int>]	8	static
+../src/Aplicacion/Comunicacion.cpp:86:6:void Comunicacion::ByteFinal()	32	static
+../src/Aplicacion/Comunicacion.cpp:229:1:Comunicacion::~Comunicacion()	8	static

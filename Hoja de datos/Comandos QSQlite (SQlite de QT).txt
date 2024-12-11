@@ -1,0 +1,42 @@
+COMANDOS DE BASE DE DATO
+
+Includes necesarios:
+
+#include <QtSql/QSqlDatabase>
+#include <QtSql/QSqlQuery>
+#include <QtSql/QSqlError>	//Este solo para mensajes de error
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Inicialización de la base de datos:
+
+QSqlDatabase A;					//------>Variable con la base de datos
+A = QSqlDatabase::addDatabase("QSQLITE");	//------>Se le indica el tipo
+A.setDatabaseName("c:\\user\\juan.sqlite");	//------>Se le pasa un string con la ruta donde lo va a guardar
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Crear/modificar/borrar base de datos:
+
+QSqlQuery tabla(A);
+tabla.prepare(ACCION);		//Ejecuta una ACCION en la base de datos. ACCION es un Qstring.
+tabla.exec();
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Comandos ACCION:
+"CREATE TABLE IF NOT EXISTS nombre_tabla(nombre_var1 VARCHAR(10),nombre_var2 VARCHAR(5) NOT NULL PRIMARY KEY,nombre_var3 VARCHAR(50));"
+Con este se crea una tabla si no existe. La primary key será nombre_var2. Es importante el orden.
+
+"SELECT * FROM nombre_tabla"						//---->Busca datos 
+Empezará a enviar todos los datos al ejecutar. 
+tabla.first();		//---->posiciona en el primer dato encontrado
+tabla.next();		//---->posiciona en el siguiente dato encontrado.
+tabla.value(int)	//---->devuelve el dato x. En caso de int=2, devuelve el nombre_var3
+
+"SELECT nombre_var1 FROM nombre_tabla WHERE nombre_var2='5'"		//---->Se puede buscar con filtros WHERE
+"UPDATE nombre_tabla SET nombre_var1 ='pito' WHERE nombre_var2='2'"	//---->UPDATE actualiza datos
+"DELETE FROM nombre_tabla WHERE nombre_var1='pepe'"			//---->Borra datos
+"INSERT INTO nombre_tabla(nombre_var1,nombre_var2) VALUES ('1', '2');	//---->Agrega valores o entradas (No se puede repetir primary key)
+
+--------------------------------------------------------------------------------------------------------------------------------------------

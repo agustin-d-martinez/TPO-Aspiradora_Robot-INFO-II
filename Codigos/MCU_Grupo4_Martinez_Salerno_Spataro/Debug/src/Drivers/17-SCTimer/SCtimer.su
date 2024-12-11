@@ -1,0 +1,9 @@
+../src/Drivers/17-SCTimer/SCtimer.cpp:153:1:SCtimer::~SCtimer()	0	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:153:1:virtual SCtimer::~SCtimer()	8	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:41:1:SCtimer::SCtimer()	8	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:53:6:void SCtimer::SetTime(uint32_t, uint32_t)	0	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:68:6:void SCtimer::StartTimer()	0	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:78:6:void SCtimer::StopTimer()	0	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:89:6:void SCtimer::SetUnify(bool)	0	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:103:6:void SCtimer::SetAutoLimit(bool)	0	static
+../src/Drivers/17-SCTimer/SCtimer.cpp:119:6:void SCtimer::SetSwitchMatrizSCTOUT(uint8_t, uint8_t, uint8_t)	12	static

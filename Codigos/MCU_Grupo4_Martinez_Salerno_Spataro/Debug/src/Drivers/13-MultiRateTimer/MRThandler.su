@@ -1,0 +1,5 @@
+C:\Users\santi\Desktop\workspaceXD\proyecto\src/Drivers/13-MultiRateTimer/MRThandler.h:51:11:MRThandler::~MRThandler()	0	static
+C:\Users\santi\Desktop\workspaceXD\proyecto\src/Drivers/13-MultiRateTimer/MRThandler.h:51:11:virtual MRThandler::~MRThandler()	8	static
+../src/Drivers/13-MultiRateTimer/MRThandler.cpp:41:1:MRThandler::MRThandler(type_MRT::MRT_timer_channels)	0	static
+../src/Drivers/13-MultiRateTimer/MRThandler.cpp:49:6:void MRThandler::MRT_reset_time()	0	static
+../src/Drivers/13-MultiRateTimer/MRThandler.cpp:61:10:uint32_t MRThandler::MRT_get_time()	0	static

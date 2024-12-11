@@ -1,0 +1,3 @@
+../src/Drivers/08-Display7Segmentos/10A-barrido/barrido.cpp:43:1:barrido::barrido()	16	static
+../src/Drivers/08-Display7Segmentos/10A-barrido/barrido.cpp:48:1:barrido::~barrido()	16	static
+../src/Drivers/08-Display7Segmentos/10A-barrido/barrido.cpp:48:1:virtual barrido::~barrido()	16	static
