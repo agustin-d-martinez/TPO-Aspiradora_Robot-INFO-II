@@ -1,3 +1,0 @@
-../src/Drivers/08-Display7Segmentos/10B-segmentos/segmentos.cpp:43:1:segmentos::segmentos()	16	static
-../src/Drivers/08-Display7Segmentos/10B-segmentos/segmentos.cpp:48:1:segmentos::~segmentos()	16	static
-../src/Drivers/08-Display7Segmentos/10B-segmentos/segmentos.cpp:48:1:virtual segmentos::~segmentos()	16	static

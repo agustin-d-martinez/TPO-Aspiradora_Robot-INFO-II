@@ -1,9 +1,0 @@
-../src/Drivers/04-inputs/inputs.cpp:46:1:inputs::~inputs()	8	static
-../src/Drivers/04-inputs/inputs.cpp:46:1:virtual inputs::~inputs()	8	static
-../src/Drivers/04-inputs/inputs.cpp:48:6:virtual void inputs::SWhandler()	8	static
-../src/Drivers/04-inputs/inputs.cpp:38:1:inputs::inputs(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	32	static
-../src/Drivers/04-inputs/inputs.cpp:71:6:void inputs::SetBuffer()	8	static
-../src/Drivers/04-inputs/inputs.cpp:76:9:inputs& inputs::operator=(uint8_t)	0	static
-../src/Drivers/04-inputs/inputs.cpp:82:9:uint8_t inputs::SetDir()	8	static
-../src/Drivers/04-inputs/inputs.cpp:64:6:void inputs::Inicializar()	8	static
-../src/Drivers/04-inputs/inputs.cpp:87:9:uint8_t inputs::get()	0	static

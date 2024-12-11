@@ -1,4 +1,0 @@
-d:\mcuxpresso\mcuxpressoide_11.5.1_7266\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.1.202201181444\tools\arm-none-eabi\include\c++\10.3.1\bits\stl_list.h:827:7:std::__cxx11::list<_Tp, _Alloc>::~list() [with _Tp = swhandler*; _Alloc = std::allocator<swhandler*>]	16	static
-../src/Firmware/systick.cpp:13:6:void SysTick_Handler()	16	static
-../src/Firmware/systick.cpp:20:10:uint32_t Inicializar_SysTick(uint32_t)	0	static
-../src/Firmware/systick.cpp:32:1:cpp)	8	static

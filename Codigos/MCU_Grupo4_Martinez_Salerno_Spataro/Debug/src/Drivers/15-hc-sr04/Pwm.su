@@ -1,8 +1,0 @@
-../src/Drivers/15-hc-sr04/Pwm.cpp:159:1:Pwm::~Pwm()	8	static
-../src/Drivers/15-hc-sr04/Pwm.cpp:159:1:virtual Pwm::~Pwm()	8	static
-../src/Drivers/15-hc-sr04/Pwm.cpp:43:1:Pwm::Pwm(uint8_t, uint8_t, uint8_t, Pwm::pwm_channel_t)	24	static
-../src/Drivers/15-hc-sr04/Pwm.cpp:57:6:void Pwm::SetTon(uint32_t, Pwm::pwm_time_unit_t)	8	static
-../src/Drivers/15-hc-sr04/Pwm.cpp:75:6:void Pwm::SetPeriod(uint32_t, Pwm::pwm_time_unit_t)	8	static
-../src/Drivers/15-hc-sr04/Pwm.cpp:95:6:void Pwm::Inicializar(uint32_t, uint32_t, Pwm::pwm_time_unit_t)	24	static
-../src/Drivers/15-hc-sr04/Pwm.cpp:143:6:void Pwm::On()	8	static
-../src/Drivers/15-hc-sr04/Pwm.cpp:153:6:void Pwm::Off()	8	static
